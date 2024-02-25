@@ -63,13 +63,13 @@ smmap==5.0.1
 streamlit==1.31.1
 sympy==1.12
 tenacity==8.2.3
-tokenizers==0.15.2
+tokenizers==0.13.3
 toml==0.10.2
 toolz==0.12.1
 torch==2.2.1
 tornado==6.4
 tqdm==4.66.2
-transformers==4.38.1
+transformers==4.24.0
 triton==2.2.0
 typing_extensions==4.9.0
 tzdata==2024.1

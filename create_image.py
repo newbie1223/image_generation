@@ -21,7 +21,7 @@ import re
 filename = re.sub(r'[\\/:*?"<>|,]+', '', prompt).replace(' ','_')
 
 # 画像数
-num = 4
+num = 1
  
 for i in range(num):
   # モデルにpromptを入力し画像生成
